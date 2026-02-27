@@ -11,3 +11,4 @@ fredapi
 yfinance
 requests
 vaderSentiment
+scipy
